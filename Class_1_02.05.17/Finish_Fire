@@ -1,0 +1,122 @@
+José Carlos Monte Silva Júnior
+Student of the Bachelor's Degree in Information Systems at the Federal Rural University of Pernambuco (UFRPE)
+
+	This exercise is about Lecture 1 held on 05/02/2017 of the discipline Fundamentos de Engenharia de Software, which is taught by Prof. Jones Albuquerque Doctor of Computer Science.
+
+	Where should we come up with a solution to one of the proposed challenges from among the various themes offered in NASA's Space Apps Challenge.
+
+
+Introduction
+
+	First of all, we'll have a quick introduction about NASA and its Space Apps.
+
+	The National Aeronautics and Space Administration (NASA) is an agency of the United States Federal Government responsible for research and development of space exploration technologies and programs. NASA has as its vision: "We have reached new heights and revealed the unknown to the benefit of humanity."
+
+	Following this concept, NASA has created a specific challenge called Space Apps. Space Apps is an international hackathon of scientific exploration that takes place over 48 hours in cities around the world. People from various areas of knowledge such as coders, scientists, designers, storytellers, manufacturers, builders, technologists and all space enthusiasts come together to face the challenges we face both on Earth and in space.
+
+	Space Apps releases some NASA data, such as NASA Earth Science data, to help participants solve problems around the world.
+
+	Well, now that we have a good idea about how Space Apps came about, let's now learn more about our chosen challenge and our proposed solution!
+
+
+
+
+
+
+
+
+
+Finish Fire!
+
+	Let's all go together, helping each other in the fight against the fires that have occurred in the world!
+
+Warning! Danger Ahead!
+What is understood of the theme:
+
+	Nowadays, society is advancing in an extraordinary way. With this advancement of society, there is an alert among the authorities and the population regarding major disasters, whether natural or man-made.
+
+	Both natural disasters and natural phenomena that can pose a risk to health must be properly studied and monitored so that monitoring and prevention of these helps to minimize their damage and possible new events.
+
+	The challenges posed in this theme are created with the objective of monitoring natural disasters and phenomena associated with health risks. Where they should evaluate the impacts of these disasters and phenomena on life and property, finding a solution for them.
+
+	With due follow-up and commitment of all, control of these disasters can cooperate with a better future for all, as some of these disasters are responsible for a large number of deaths and diseases. Others also have great impact on the environment, which also has a direct influence on the life of the planet, encompassing human life, animals and vegetation.
+
+And you can help fight fires!
+What is asked in the challenge:
+
+	"Build a fire monitoring and crowdsourcing tool that will allow local fire managers to respond to fires."
+
+	With rising temperatures and increasingly dry and low humidity climates (largely due to man's interference in nature) the onset of fires caused by small sparks caused by lightning or even, ashes of cigarettes (in this case, Caused by man, we call negligence) has been growing in a worrisome way.
+
+	The fire is actually an uncontrolled fire occurrence that can pose great risks to people, animals, the environment or even structures in their path.
+
+	However, not all fire points can be considered as fires. In order to be considered a fire, it is taken into account the burned area, the dimensions of the destruction that it caused or could cause if it is not detained, and its location. However, great attention and control is required in the burn outfalls and in order to avoid that the proportion of fire can reach the maximum damage.
+
+	Fires often cause large numbers of victims, usually by inhaling the gases, or by fainting caused by them, or later by severe burns.
+
+
+Solution
+
+	There are several ways of preventing and fighting fire. The main ones range from locating the focus of fire and preventing it from spreading (removing high-combustion materials from the fire focus helps in the very beginning of a fire) to direct combat by extinction methods.
+
+	However, the work of fire control organizations / corporations such as the fire brigade is of extreme importance in the fight, control and extinction of the fire, as well as in the rescue and in the first medical treatments of the victims.
+
+	It turns out that sometimes these organizations / corporations find it difficult to locate these points or it happens that the emergency calls are made too late.
+
+	With that in mind, the idea of ​​Finish Fire! That in the foreground has been thinking like a mobile application that can assist both the population and organizations fighters / firefighters.
+
+	The Finish Fire! It would be an application, where the users themselves could inform through crowdsourcing possible points of fire focus or even fires already propagated. With that other users of Finish Fire! They would also know where the fires are occurring and would already avoid the site, thus avoiding more possible victims.
+
+	The application also aims to provide improved routes for evacuating people, and the best routes for firefighting / rescue organizations to get there.
+
+	The application may also include awareness raising and population education tips against fires, and some laws that refer to punishments caused to someone who causes an arson or culpable fire to avoid possible fires caused by negligence or willful misconduct.
+
+	The application may also use some weather data with the intention of locating fire prone places and putting them on alert.
+
+	The Finish Fire! It was intended for a safer and more conscious future for people and the world.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+
+About NASA:
+
+https://pt.wikipedia.org/wiki/NASA
+
+https://www.nasa.gov/about/index.html
+
+About Space Apps Challenge
+https://2017.spaceappschallenge.org/
+
+Link to the chosen Space Apps theme:
+
+https://2017.spaceappschallenge.org/challenges/warning-danger-ahead/ 
+
+Link to the chosen challenge among those offered in the theme quoted above:
+
+https://2017.spaceappschallenge.org/challenges/warning-danger-ahead/and-you-can-help-fight-fires/details 
+
+Sites related to the subject addressed in the challenge:
+
+https://pt.wikipedia.org/wiki/Inc%C3%AAndio 
+
+http://www.ibama.gov.br/incendios-florestais 
+
+http://mundoestranho.abril.com.br/ambiente/como-surge-um-incendio-florestal-e-como-combate-lo/
+
+http://www.infoescola.com/ecologia/incendio-florestal/
