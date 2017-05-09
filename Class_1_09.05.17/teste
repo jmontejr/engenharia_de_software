@@ -1,0 +1,23 @@
+UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+DEPARTAMENTO DE ESTATÍSTICA E INFORMÁTICA
+(DEINFO)
+06287 Fundamentos de Engenharia de Software
+Prof. Jones Albuquerque
+Nome: José Carlos Monte Silva Júnior
+
+
+PROVA ESCRITA 1 Teste
+(Complexidade x Esforço e tendências em Projetos de Sistemas de SI)
+
+
+1.
+1.1
+
+1.2 O(n)²
+
+1.3 n log n
+
+
+2. 	O Processo de software é conjunto de métodos, práticas e atividades que abrangem o processo de criação, construção e acompanhamento de um determinado trabalho. Através do processo de software, os engenheiros de software conseguem determinar as melhores ações, ferramentas e métodos necessários que deverão ser utilizados. O processo tem em modo geral uma função de controle e organização para que todo o trabalho, desde a criação, desenvolvimento, entrega e acompanhamento ocorram dentro do planejado. Com um processo de software é possível controlar o andamento do trabalho e minimizar os erros e custos, tudo dentro de um estudo e planejamento previamente realizado. O processo compreende a comunicação (entrar em contato com o cliente é extremamente importante para todo o andamento do projeto), o planejamento (onde se define os próximos passos e etapas a serem seguidas), a modelagem (onde se faz um esboço para se ter noção de como o projeto deve ser encaminhado), a construção (onde se desenvolve o projeto em si, parte de desenvolvimento do código) e o emprego (parte do processo que compreende a entrega e acompanhamento do software ao cliente).
+
+	Quando ao processo de modelagem, este é de extrema importância, pois independente de qual ramo, área seja o trabalho. Quando se tem um esboço para se seguir, este mesmo facilita todo o processo, pois através do esboço, pode-se ter uma noção de forma mais concreta de como o trabalho deve ficar, fazendo assim com que durante o processo todos envolvidos, tentem se manter sempre o mais próximo daquele esboço, com isso ajudando a diminuir, entender e corrigir os riscos e falhas. Então independente do seu tamanho ou complexidade, o processo/atividade de modelagem é vital para todas as áreas.
